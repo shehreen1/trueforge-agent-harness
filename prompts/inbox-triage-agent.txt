@@ -1,0 +1,11 @@
+I want to triage some emails. Here are 5 sample email subjects and short bodies from my inbox:
+
+1. Subject: "URGENT: Submission deadline tomorrow" - Body: "Reminder that your hackathon project submission closes at midnight tomorrow. Please submit before the deadline."
+2. Subject: "Weekly Newsletter - Tech Digest" - Body: "Here are this week's top tech articles and industry updates for you to browse."
+3. Subject: "Your PwC application status" - Body: "Thank you for applying. We wanted to update you on the status of your Business Analyst application."
+4. Subject: "Interview scheduling - please respond ASAP" - Body: "We would like to schedule your interview this week. Please reply with your availability as soon as possible."
+5. Subject: "Special discount just for you!" - Body: "Limited time offer - 20% off your next purchase, click here to redeem."
+
+Use the sandbox to run a Python script that scores each email's urgency based on keywords (like "urgent", "asap", "deadline", "reminder" = high urgency; "newsletter", "discount", "offer" = low urgency), and ranks all 5 from most to least urgent. Show me the scoring output.
+
+Then use that ranked list to draft a short priority-summary email (as a Gmail draft to usmanishehreen@gmail.com) telling me which 2 emails need my attention today and which can wait. Don't send it, just create the draft.
